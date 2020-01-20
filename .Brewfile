@@ -16,6 +16,7 @@ brew "p7zip"
 
 cask "dotnet-sdk"
 cask "firefox"
+cask "microsoft-azure-storage-explorer"
 cask "microsoft-office"
 cask "powershell"
 cask "suspicious-package" #extracts .pkg files
