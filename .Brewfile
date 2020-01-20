@@ -8,6 +8,8 @@ brew "bash-git-prompt"
 brew "findutils"
 brew "git"
 brew "grep"
+brew "lastpass"
+brew "figma"
 
 brew "lazydocker"
 brew "p7zip"
