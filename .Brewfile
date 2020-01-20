@@ -1,11 +1,21 @@
-# Homebrew is the "missing package manager for macOS".  Read more here: https://brew.sh/
-# Explore packages available by browsing to http://brewformulas.org/.
-# Use this script to customize your Strap setup with packages you like!
+brew "gitkraken"
+brew "visual-studio-code"
+brew "vlc"
+brew "bash"
+brew "awscli"
+brew "awslogs"
+brew "bash-git-prompt"
+brew "findutils"
+brew "git"
+brew "grep"
 
-# Some examples:
-# Use `cask "{package}"` format for items installed with `brew install Caskroom/cask/{package}`
-# cask "{package}"
+brew "lazydocker"
+brew "p7zip"
 
-# Use `brew "{package}"` format for packages installed with `brew install {package}`
-# brew "{package}"
-#
+cask "dotnet-sdk"
+cask "firefox"
+cask "microsoft-office"
+cask "powershell"
+cask "suspicious-package" #extracts .pkg files
+cask "zoomus"
+cask "zoomus-outlook-plugin"
