@@ -10,7 +10,7 @@ brew "git"
 brew "grep"
 brew "lastpass"
 brew "figma"
-
+brew "iterm2"
 brew "lazydocker"
 brew "p7zip"
 
